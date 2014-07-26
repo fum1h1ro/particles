@@ -1,4 +1,5 @@
 #import <UIKit/UIKit.h>
+#import <OpenGLES/ES2/glext.h>
 #import <GLKit/GLKit.h>
 #import <CoreMotion/CoreMotion.h>
 
